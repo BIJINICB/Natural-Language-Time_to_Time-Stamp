@@ -29,5 +29,5 @@ def convert_datetime(datetime_ago):
     )
 
     return d
-print(convert_datetime(date).strftime('%d-%b-%Y'))
+
 	
